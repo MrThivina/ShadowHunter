@@ -5,7 +5,6 @@ import socket
 from concurrent.futures import ThreadPoolExecutor
 from time import sleep
 
-# ================== BANNER ==================
 def banner():
     print("\033[32m")
     print(r"""
@@ -21,7 +20,6 @@ def banner():
     print("\033[0m")
 
 
-# ================== USERNAME SEARCH ==================
 def check_username(site, url, username):
     try:
         full_url = url.format(username)
@@ -62,7 +60,7 @@ def username_search():
             print(f"\033[31m[-] Not found on {site}\033[0m")
 
 
-# ================== INSTAGRAM MODULE ==================
+
 def instagram_lookup():
     user = input("\nEnter Instagram username: ")
 
@@ -83,7 +81,6 @@ def instagram_lookup():
     print(f"[+] Profile URL: {url}")
 
 
-# ================== DOMAIN LOOKUP ==================
 def domain_lookup():
     domain = input("\nEnter domain: ")
 
@@ -95,7 +92,6 @@ def domain_lookup():
         print("[-] Could not resolve domain")
 
 
-# ================== MENU ==================
 def menu():
     while True:
         print("""
@@ -119,8 +115,8 @@ def menu():
             print("Invalid option")
 
 
-# ================== RUN ==================
+
 if __name__ == "__main__":
-    os.system("clear")  # use 'cls' on Windows
+    os.system("clear")
     banner()
     menu()
