@@ -5,6 +5,7 @@ import socket
 from concurrent.futures import ThreadPoolExecutor
 from time import sleep
 
+
 def banner():
     print("\033[32m")
     print(r"""
