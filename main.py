@@ -94,8 +94,8 @@ def domain_lookup():
 def menu():
     while True:
         print("""
-\033[91m[1]\033[91m\033[93m.\033[93m Username Search
-\033[91m[2]\033[91m\033[93m.\033[93mInstagram Check
+\033[91m[1]\033[91m\033[93m.\033[93m \033[91mUsername Search\033[91m
+\033[91m[2]\033[91m\033[93m.\033[93m Instagram Check
 \033[91m[3]\033[91m\033[93m.\033[93mDomain Lookup
 \033[91m[4]\033[91m\033[93m.\033[93mExit
 """)
