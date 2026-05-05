@@ -95,9 +95,9 @@ def menu():
     while True:
         print("""
 \033[91m[1]\033[91m\033[93m.\033[93m \033[92mUsername Search\033[92m
-\033[91m[2]\033[91m\033[93m.\033[93m \033[91mInstagram Check\033[91m
-\033[91m[3]\033[91m\033[93m.\033[93m \033[91mDomain Lookup\033[91m
-\033[91m[4]\033[91m\033[93m.\033[93m \033[91mExit\033[91m
+\033[91m[2]\033[91m\033[93m.\033[93m \033[92mInstagram Check\033[91m
+\033[91m[3]\033[91m\033[93m.\033[93m \033[92mDomain Lookup\033[91m
+\033[91m[4]\033[91m\033[93m.\033[93m \033[92mExit\033[91m
 """)
 
         choice = input("\033[97mSelect option : \033[97m")
