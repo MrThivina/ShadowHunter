@@ -100,7 +100,7 @@ def menu():
 \033[91m[4]\033[91m\033[93m.\033[93m \033[91mExit\033[91m
 """)
 
-        choice = input("Select option : ")
+        choice = input("\033[97mSelect option : \033[97m")
 
         if choice == "1":
             username_search()
