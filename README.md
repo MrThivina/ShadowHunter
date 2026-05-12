@@ -1,24 +1,77 @@
-<img src="./banner.png">
+<p align="center">
+  <img src="./banner.png" alt="ShadowHunter banner">
+</p>
 
 # ShadowHunter
-A powerful terminal-based OSINT toolkit for discovering and analyzing publicly available data across usernames, domains, and online platforms
 
-<hr>
+ShadowHunter is a terminal-based OSINT toolkit for checking publicly available profiles across usernames, domains, and online platforms.
 
--->How To Install<--
+## Features
 
-pkg update 
+- Search for usernames across supported platforms
+- Uses a simple `sites.json` platform list
+- Runs from the terminal with Python
+- Lightweight setup for Termux, Linux, macOS, and Windows
 
-pkg upgrade 
+## Requirements
 
-pkg install python 
+- Python 3
+- Git
+- `requests` Python package
 
-pkg install git 
+## Installation
 
-pip install requests 
+### Termux
 
+```bash
+pkg update
+pkg upgrade
+pkg install python git
+pip install requests
 git clone https://github.com/MrThivina/ShadowHunter
+cd ShadowHunter
+```
 
-cd ShadowHunter 
+### Windows, Linux, or macOS
 
-python main.py
+```bash
+git clone https://github.com/MrThivina/ShadowHunter
+cd ShadowHunter
+pip install requests
+```
+
+## Usage
+
+Run the tool from the project folder:
+
+```bash
+py ShadowHunter.py
+```
+
+If your system uses `python3` instead of `python`, run:
+
+```bash
+py -3 ShadowHunter.py
+```
+
+## Project Files
+
+- `ShadowHunter.py` - main terminal application
+- `sites.json` - supported platform URL templates
+- `banner.png` - README banner image
+
+## Supported Platforms
+
+The default `sites.json` includes:
+
+- Instagram
+- GitHub
+- Twitter
+- TikTok
+- Reddit
+
+You can add more platforms by editing `sites.json` and adding URL templates that contain `{}` where the username should be inserted.
+
+## Disclaimer
+
+ShadowHunter is intended for educational and authorized research use only. Use it responsibly and only with publicly available information.
