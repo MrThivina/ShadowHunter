@@ -4,6 +4,12 @@
 
 # ShadowHunter
 
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/MrThivina/ShadowHunter?style=for-the-badge" alt="Top language">
+  <img src="https://img.shields.io/github/languages/count/MrThivina/ShadowHunter?style=for-the-badge" alt="Language count">
+  <img src="https://img.shields.io/github/repo-size/MrThivina/ShadowHunter?style=for-the-badge" alt="Repository size">
+</p>
+
 ShadowHunter is a terminal-based OSINT toolkit for checking publicly available profiles across usernames, domains, and online platforms.
 
 ## Features
