@@ -3,5 +3,5 @@
   "GitHub"   : "https://github.com/{}",
   "Twitter"  : "https://twitter.com/{}",
   "TikTok"   : "https://www.tiktok.com/@{}",
-  "Reddit": "https://www.reddit.com/user/{}"
+  "Reddit"   : "https://www.reddit.com/user/{}"
 }
