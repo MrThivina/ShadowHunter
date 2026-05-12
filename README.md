@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/MrThivina/ShadowHunter?style=for-the-badge" alt="Top language">
-  <img src="https://img.shields.io/github/languages/count/MrThivina/ShadowHunter?style=for-the-badge" alt="Language count">
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/github/repo-size/MrThivina/ShadowHunter?style=for-the-badge" alt="Repository size">
 </p>
 
